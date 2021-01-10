@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start Scene.unity
+    guid: 293b80eb2bfed3f458f263bec29a860b
+  - enabled: 1
+    path: Assets/Scenes/BedRoom.unity
+    guid: 842746498250581438ccb35bb9cf95b3
+  - enabled: 1
+    path: Assets/Scenes/KitchenScene.unity
+    guid: 9257aff0e35c26e488bca610f985eb42
+  - enabled: 1
+    path: Assets/Scenes/LivingRoom.unity
+    guid: 0cde73fd66e3fbc4681b48bd2a6fafea
+  - enabled: 1
+    path: Assets/Scenes/Setting.unity
+    guid: 5d232c2893a42494399a3b38a2de7756
+  - enabled: 1
+    path: Assets/Scenes/Garden.unity
+    guid: c29b184ca862c4c439eae0eeeb429e19
+  - enabled: 1
+    path: Assets/Scenes/ParentRoom.unity
+    guid: 747a7672c5099d843acb716f86d87485
+  - enabled: 1
+    path: Assets/Scenes/Lobby.unity
+    guid: 31b2797ddad53044091294e9f67a0b96
+  - enabled: 1
+    path: Assets/Scenes/OutSide.unity
+    guid: 93c488caccaf0584c81c197265817507
+  - enabled: 1
+    path: Assets/Scenes/Storage.unity
+    guid: 578d16d2d0dc0cb4f9f87ccc3fcb5efd
+  - enabled: 1
+    path: Assets/Scenes/Ending.unity
+    guid: 02d568ef3f7f5084d9d8539de175a5b8
+  m_configObjects: {}

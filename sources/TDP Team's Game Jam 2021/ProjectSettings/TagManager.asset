@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - KitchenScene_GotoGarden
+  - KitchenScene_GotoLobby
+  - BedRoomScene_GotoLobby
+  - LivingRoomScene_GotoOutSide
+  - LivingRoomScene_GotoLobby
+  - KitchenScene_GotoLivingRoom
+  - Lobby_GotoBedRoom
+  - Lobby_GotoLivingRoom
+  - Lobby_GotoKitchenScene
+  - Lobby_GotoParentRoom
+  - Garden_GotoKitchenScene
+  - Garden_GotoStorage
+  - ParentRoom_GotoLobby
+  - LivingRoom_GotoKitchenScene
+  - OutSide_GotoLivingRoom
+  - LivingRoom_GotoOutSide
+  - LivingRoom_DirectKitchenScene
+  - Storage_GotoGarden
+  - LatterChair
+  - ParentRoomKey
+  - player_faker
+  - ghe_faker
+  - ghe
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - ground
+  - door
+  - post processing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: ground
+    uniqueID: 4121436245
+    locked: 0
+  - name: stuff
+    uniqueID: 186075227
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: message
+    uniqueID: 4127283805
+    locked: 0
